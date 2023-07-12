@@ -1,0 +1,58 @@
+2023.07.12 14:33:47 INFO  Started: Metals version 0.11.12 in workspace '/Users/hugobarbosa/Desktop/td3_scoverageimp' for client Visual Studio Code 1.78.2.[0m
+juil. 12, 2023 2:33:47 PM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFO: Flyway Community Edition 9.16.3 by Redgate
+juil. 12, 2023 2:33:47 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: See release notes here: https://rd.gt/416ObMi
+juil. 12, 2023 2:33:47 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: 
+juil. 12, 2023 2:33:47 PM org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFO: Database: jdbc:h2:file:/Users/hugobarbosa/Desktop/td3_scoverageimp/.metals/metals (H2 2.1)
+juil. 12, 2023 2:33:47 PM org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory allAppliedMigrations
+INFO: Schema history table "PUBLIC"."flyway_schema_history" does not exist yet
+juil. 12, 2023 2:33:47 PM org.flywaydb.core.internal.command.DbValidate validate
+INFO: Successfully validated 4 migrations (execution time 00:00.023s)
+juil. 12, 2023 2:33:47 PM org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory create
+INFO: Creating Schema History table "PUBLIC"."flyway_schema_history" ...
+juil. 12, 2023 2:33:48 PM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFO: Current version of schema "PUBLIC": << Empty Schema >>
+juil. 12, 2023 2:33:48 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "1 - Create tables"
+juil. 12, 2023 2:33:48 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "2 - Server discovery"
+juil. 12, 2023 2:33:48 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "3 - Jar symbols"
+juil. 12, 2023 2:33:48 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "4 - Fingerprints"
+juil. 12, 2023 2:33:48 PM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFO: Successfully applied 4 migrations to schema "PUBLIC", now at version v4 (execution time 00:00.096s)
+2023.07.12 14:33:48 INFO  time: initialize in 0.8s[0m
+2023.07.12 14:33:52 WARN  Build server is not auto-connectable.[0m
+2023.07.12 14:34:32 WARN  no build target for: /Users/hugobarbosa/Desktop/td3_scoverageimp/project/plugins.sbt[0m
+2023.07.12 14:34:36 WARN  no build target for: /Users/hugobarbosa/Desktop/td3_scoverageimp/project/plugins.sbt[0m
+2023.07.12 14:34:36 INFO  skipping build import with status 'Dismissed'[0m
+2023.07.12 14:34:39 INFO  no build target found for /Users/hugobarbosa/Desktop/td3_scoverageimp/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.2.2[0m
+2023.07.12 14:34:40 INFO  time: code lens generation in 4.11s[0m
+2023.07.12 14:34:40 INFO  time: code lens generation in 5.61s[0m
+2023.07.12 14:34:40 INFO  time: code lens generation in 7.19s[0m
+2023.07.12 14:35:01 WARN  no build target for: /Users/hugobarbosa/Desktop/td3_scoverageimp/build.sbt[0m
+2023.07.12 14:37:30 WARN  no build target for: /Users/hugobarbosa/Desktop/td3_scoverageimp/build.sbt[0m
+2023.07.12 14:40:47 WARN  no build target for: /Users/hugobarbosa/Desktop/td3_scoverageimp/src/main/scala/fr/esgi/iabd/tictactoe/TicTacToe.scala[0m
+2023.07.12 14:40:50 INFO  time: code lens generation in 1.19s[0m
+2023.07.12 14:41:51 WARN  no build target for: /Users/hugobarbosa/Desktop/td3_scoverageimp/src/test/scala/fr/esgi/iabd/tictactoe/TicTacToeSpec.scala[0m
+2023.07.12 14:42:22 WARN  no build target for: /Users/hugobarbosa/Desktop/td3_scoverageimp/src/test/scala/fr/esgi/iabd/tictactoe/TicTacToeSpec.scala[0m
+2023.07.12 14:43:28 WARN  no build target for: /Users/hugobarbosa/Desktop/td3_scoverageimp/src/test/scala/fr/esgi/iabd/tictactoe/TicTacToeSpec.scala[0m
+2023.07.12 14:44:42 WARN  no build target for: /Users/hugobarbosa/Desktop/td3_scoverageimp/src/test/scala/fr/esgi/iabd/tictactoe/TicTacToeSpec.scala[0m
+2023.07.12 14:46:29 WARN  no build target for: /Users/hugobarbosa/Desktop/td3_scoverageimp/src/test/scala/fr/esgi/iabd/tictactoe/TicTacToeSpec.scala[0m
+2023.07.12 15:03:15 WARN  no build target for: /Users/hugobarbosa/Desktop/td3_scoverageimp/src/main/scala/fr/esgi/iabd/tictactoe/TicTacToe.scala[0m
+2023.07.12 15:07:31 WARN  no build target for: /Users/hugobarbosa/Desktop/td3_scoverageimp/src/test/scala/fr/esgi/iabd/tictactoe/TicTacToeSpec.scala[0m
+2023.07.12 15:09:33 WARN  no build target for: /Users/hugobarbosa/Desktop/td3_scoverageimp/src/test/scala/fr/esgi/iabd/tictactoe/TicTacToeSpec.scala[0m
+2023.07.12 15:10:28 WARN  no build target for: /Users/hugobarbosa/Desktop/td3_scoverageimp/src/test/scala/fr/esgi/iabd/tictactoe/TicTacToeSpec.scala[0m
+2023.07.12 15:10:50 WARN  no build target for: /Users/hugobarbosa/Desktop/td3_scoverageimp/src/test/scala/fr/esgi/iabd/tictactoe/TicTacToeSpec.scala[0m
+2023.07.12 15:11:21 WARN  no build target for: /Users/hugobarbosa/Desktop/td3_scoverageimp/src/test/scala/fr/esgi/iabd/tictactoe/TicTacToeSpec.scala[0m
+2023.07.12 15:12:10 WARN  no build target for: /Users/hugobarbosa/Desktop/td3_scoverageimp/src/test/scala/fr/esgi/iabd/tictactoe/TicTacToeSpec.scala[0m
+2023.07.12 15:14:59 WARN  no build target for: /Users/hugobarbosa/Desktop/td3_scoverageimp/src/test/scala/fr/esgi/iabd/tictactoe/TicTacToeSpec.scala[0m
+2023.07.12 15:16:34 WARN  no build target for: /Users/hugobarbosa/Desktop/td3_scoverageimp/src/test/scala/fr/esgi/iabd/tictactoe/TicTacToeSpec.scala[0m
+2023.07.12 15:17:34 WARN  no build target for: /Users/hugobarbosa/Desktop/td3_scoverageimp/src/test/scala/fr/esgi/iabd/tictactoe/TicTacToeSpec.scala[0m
+2023.07.12 15:18:54 WARN  no build target for: /Users/hugobarbosa/Desktop/td3_scoverageimp/src/test/scala/fr/esgi/iabd/tictactoe/TicTacToeSpec.scala[0m
+2023.07.12 15:21:36 WARN  no build target for: /Users/hugobarbosa/Desktop/td3_scoverageimp/src/test/scala/fr/esgi/iabd/tictactoe/TicTacToeSpec.scala[0m
+2023.07.12 15:22:20 WARN  no build target for: /Users/hugobarbosa/Desktop/td3_scoverageimp/src/test/scala/fr/esgi/iabd/tictactoe/TicTacToeSpec.scala[0m

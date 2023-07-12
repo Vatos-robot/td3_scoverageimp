@@ -1,0 +1,1 @@
+question 6 : les fonctions impossibles à tester sans utiliser des mocks sont run et main.

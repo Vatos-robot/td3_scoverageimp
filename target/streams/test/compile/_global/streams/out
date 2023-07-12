@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/hugobarbosa/Desktop/td3_scoverageimp/src/test/scala/fr/esgi/iabd/tictactoe/TicTacToeSpec.scala:94:18: not found: value horizontalVictory[0m
+[0m[[0m[31merror[0m] [0m[0m    val result = horizontalVictory(grid, row)[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/hugobarbosa/Desktop/td3_scoverageimp/src/test/scala/fr/esgi/iabd/tictactoe/TicTacToeSpec.scala:105:18: not found: value horizontalVictory[0m
+[0m[[0m[31merror[0m] [0m[0m    val result = horizontalVictory(grid, row)[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/hugobarbosa/Desktop/td3_scoverageimp/src/test/scala/fr/esgi/iabd/tictactoe/TicTacToeSpec.scala:116:18: not found: value horizontalVictory[0m
+[0m[[0m[31merror[0m] [0m[0m    val result = horizontalVictory(grid, row)[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
